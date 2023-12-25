@@ -1,0 +1,664 @@
+{
+  "quiz-history": [
+    {
+      "user": "Abhay",
+      "quizCategory": "History",
+      "score": 0,
+      "selectedAnswers": {
+        "0": "Saturn",
+        "1": "Leo Tolstoy",
+        "2": "Lungs",
+        "3": "South Korea",
+        "4": "Brisbane",
+        "5": "Pacific Ocean",
+        "6": "Michelangelo",
+        "7": "Hydrogen",
+        "8": "Thomas Edison",
+        "9": "Ag"
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Abhay",
+      "lastName": "Nitnavare",
+      "email": "abhaynitnavare0@gmail.com",
+      "mobileNo": "8108304501",
+      "password": "Abhay@123",
+      "confirmPassword": "Abhay@123",
+      "id": 1
+    },
+    {
+      "firstName": "AAAA",
+      "lastName": "Nitnavare",
+      "email": "abhaynitnavare0@ail.com",
+      "mobileNo": "08108304501",
+      "password": "Abhay@123",
+      "confirmPassword": "Abhay@123",
+      "id": 2
+    },
+    {
+      "firstName": "Abhay",
+      "lastName": "Nitnavare",
+      "email": "abhaynitnavare0@gmail.com",
+      "mobileNo": "08108304501",
+      "password": "sssssssssss",
+      "confirmPassword": "sssssssssss",
+      "id": 3
+    },
+    {
+      "firstName": "aaaa",
+      "lastName": "sssss",
+      "email": "abhaynitnavar@gmail.com",
+      "mobileNo": "",
+      "password": "Abhay111",
+      "confirmPassword": "Abhay111",
+      "id": 4
+    },
+    {
+      "firstName": "Abhay",
+      "lastName": "Nitnavare",
+      "email": "abhaynitnavare0@gmail.com",
+      "mobileNo": "",
+      "password": "Abhay@123",
+      "confirmPassword": "Abhay@123",
+      "id": 5
+    }
+  ],
+  "Loggedusers": [
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 1
+    },
+    {
+      "email": "Srijit@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 3
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 4
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 5
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 6
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 7
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 8
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 9
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 10
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 11
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 12
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 13
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 14
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 15
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 16
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 17
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 18
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 19
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 20
+    },
+    {
+      "email": "abhaynitnavare0@gmail.com",
+      "password": "Abhay@123",
+      "id": 21
+    }
+  ],
+  "quizScince": [
+    {
+      "id": 1,
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "hint": "This process involves using sunlight, water, and carbon dioxide to produce glucose and oxygen.",
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Earth"
+      ],
+      "hint": "It is the smallest and innermost planet in the Solar System.",
+      "answer": "Mercury"
+    },
+    {
+      "id": 3,
+      "question": "What is the unit of measurement for force?",
+      "options": [
+        "Newton",
+        "Watt",
+        "Joule",
+        "Ampere"
+      ],
+      "hint": "It is named after a famous physicist known for his laws of motion.",
+      "answer": "Newton"
+    },
+    {
+      "id": 4,
+      "question": "What is the main function of red blood cells in the human body?",
+      "options": [
+        "Carrying oxygen",
+        "Producing antibodies",
+        "Digesting food",
+        "Transporting hormones"
+      ],
+      "hint": "These cells are responsible for transporting a vital gas.",
+      "answer": "Carrying oxygen"
+    },
+    {
+      "id": 5,
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "hint": "This scientist is famous for his observations on the Galapagos Islands.",
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": 6,
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Heart",
+        "Brain",
+        "Liver",
+        "Skin"
+      ],
+      "hint": "It covers the entire body and serves multiple purposes.",
+      "answer": "Skin"
+    },
+    {
+      "id": 7,
+      "question": "What is the speed of light approximately?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "200,000 km/s",
+        "250,000 km/s"
+      ],
+      "hint": "It's considered one of the fundamental constants in physics.",
+      "answer": "300,000 km/s"
+    },
+    {
+      "id": 8,
+      "question": "Which element is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "hint": "It makes up approximately 78% of the Earth's atmosphere.",
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 9,
+      "question": "What is the smallest particle of an element that retains its properties?",
+      "options": [
+        "Neutron",
+        "Proton",
+        "Atom",
+        "Molecule"
+      ],
+      "hint": "It consists of a nucleus and electrons orbiting around it.",
+      "answer": "Atom"
+    },
+    {
+      "id": 10,
+      "question": "Which scientist is known for the theory of general relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Nikola Tesla"
+      ],
+      "hint": "He introduced the famous equation E=mc².",
+      "answer": "Albert Einstein"
+    }
+  ],
+  "History": [
+    {
+      "id": 1,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars",
+      "hint": "It is named after the Roman god of war due to its reddish appearance."
+    },
+    {
+      "id": 2,
+      "question": "Who wrote the famous play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Charles Dickens",
+        "Leo Tolstoy"
+      ],
+      "answer": "William Shakespeare",
+      "hint": "One of the greatest playwrights in literary history."
+    },
+    {
+      "id": 3,
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Heart",
+        "Liver",
+        "Skin",
+        "Lungs"
+      ],
+      "answer": "Skin",
+      "hint": "It covers the entire body and has multiple functions including protection and sensation."
+    },
+    {
+      "id": 4,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "India",
+        "Japan",
+        "South Korea"
+      ],
+      "answer": "Japan",
+      "hint": "The term refers to its position east of the Asian continent."
+    },
+    {
+      "id": 5,
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Melbourne",
+        "Canberra",
+        "Sydney",
+        "Brisbane"
+      ],
+      "answer": "Canberra",
+      "hint": "The city was purpose-built to serve as the capital."
+    },
+    {
+      "id": 6,
+      "question": "Which is the world's largest ocean?",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean",
+      "hint": "It covers more area than all the landmasses combined."
+    },
+    {
+      "id": 7,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci",
+      "hint": "It is one of the most famous paintings in the world."
+    },
+    {
+      "id": 8,
+      "question": "Which gas do plants absorb for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide",
+      "hint": "It is a key component required by plants to produce their food."
+    },
+    {
+      "id": 9,
+      "question": "Who discovered gravity after seeing an apple fall from a tree?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Thomas Edison"
+      ],
+      "answer": "Isaac Newton",
+      "hint": "His work laid the foundation for classical mechanics."
+    },
+    {
+      "id": 10,
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Go",
+        "Ge",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au",
+      "hint": "It comes from the Latin word 'aurum.'"
+    }
+  ],
+  "Gk": [
+    {
+      "id": 1,
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "hint": "It was purpose-built to serve as the capital.",
+      "answer": "Canberra"
+    },
+    {
+      "id": 2,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "hint": "He was an Italian polymath of the High Renaissance.",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Heart",
+        "Brain",
+        "Skin"
+      ],
+      "hint": "It covers the entire body and has multiple layers.",
+      "answer": "Skin"
+    },
+    {
+      "id": 4,
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": [
+        "Charles Babbage",
+        "Steve Jobs",
+        "Bill Gates",
+        "Alan Turing"
+      ],
+      "hint": "He designed the first mechanical computer.",
+      "answer": "Charles Babbage"
+    },
+    {
+      "id": 5,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "Vietnam"
+      ],
+      "hint": "Its flag depicts a red circle representing the sun.",
+      "answer": "Japan"
+    },
+    {
+      "id": 6,
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Go",
+        "Au",
+        "Ag",
+        "Gu"
+      ],
+      "hint": "It comes from the Latin word 'aurum'.",
+      "answer": "Au"
+    },
+    {
+      "id": 7,
+      "question": "Which continent is the least populated?",
+      "options": [
+        "Europe",
+        "Australia",
+        "Antarctica",
+        "South America"
+      ],
+      "hint": "It is also the driest and coldest continent.",
+      "answer": "Antarctica"
+    },
+    {
+      "id": 8,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "hint": "He is regarded as one of the greatest playwrights in the English language.",
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 9,
+      "question": "What is the longest river in the world?",
+      "options": [
+        "Nile River",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "hint": "It flows through northeastern Africa.",
+      "answer": "Nile River"
+    },
+    {
+      "id": 10,
+      "question": "Which gas do plants absorb for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "hint": "It is commonly exhaled by animals.",
+      "answer": "Carbon Dioxide"
+    }
+  ],
+  "Maths": [
+    {
+      "id": 1,
+      "question": "What is the result of 5 multiplied by 9?",
+      "options": [
+        "45",
+        "36",
+        "54",
+        "40"
+      ],
+      "answer": "45",
+      "hint": "Multiplying 5 by 9 gives the product."
+    },
+    {
+      "id": 2,
+      "question": "What is the value of pi (π) to two decimal places?",
+      "options": [
+        "3.14",
+        "3.16",
+        "3.18",
+        "3.12"
+      ],
+      "answer": "3.14",
+      "hint": "Pi is approximately 3.14159, rounded to two decimal places."
+    },
+    {
+      "id": 3,
+      "question": "If x = 7 and y = 3, what is the value of x + y?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "answer": "10",
+      "hint": "Add the values of x and y together."
+    },
+    {
+      "id": 4,
+      "question": "What is the square root of 144?",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "answer": "12",
+      "hint": "Find the number that multiplied by itself gives 144."
+    },
+    {
+      "id": 5,
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+      "options": [
+        "32",
+        "24",
+        "28",
+        "20"
+      ],
+      "answer": "32",
+      "hint": "Each subsequent number is obtained by multiplying the previous number by 2."
+    },
+    {
+      "id": 6,
+      "question": "If a rectangle has a length of 8 units and a width of 5 units, what is its area?",
+      "options": [
+        "40 sq. units",
+        "13 sq. units",
+        "30 sq. units",
+        "45 sq. units"
+      ],
+      "answer": "40 sq. units",
+      "hint": "The area of a rectangle is calculated by multiplying its length by its width."
+    },
+    {
+      "id": 7,
+      "question": "What is the value of 2 to the power of 5?",
+      "options": [
+        "32",
+        "16",
+        "64",
+        "10"
+      ],
+      "answer": "32",
+      "hint": "2 raised to the power of a number means multiplying 2 by itself the specified number of times."
+    },
+    {
+      "id": 8,
+      "question": "What is 35% of 80?",
+      "options": [
+        "25",
+        "28",
+        "30",
+        "20"
+      ],
+      "answer": "28",
+      "hint": "To find a percentage of a number, multiply the number by the percentage in decimal form."
+    },
+    {
+      "id": 9,
+      "question": "What is the value of 'x' in the equation: 2x - 5 = 13?",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "7"
+      ],
+      "answer": "9",
+      "hint": "Solve the equation to find the value of 'x'."
+    },
+    {
+      "id": 10,
+      "question": "If the radius of a circle is 6 units, what is its circumference?",
+      "options": [
+        "12π units",
+        "24π units",
+        "36π units",
+        "18π units"
+      ],
+      "answer": "12π units",
+      "hint": "Use the formula for calculating the circumference of a circle."
+    }
+  ]
+}

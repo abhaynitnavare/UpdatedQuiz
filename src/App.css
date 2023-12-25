@@ -1,0 +1,175 @@
+body{
+  margin:0px;
+  padding:0px;
+  /* font-family: 'Kanit', sans-serif; */
+font-family: 'Poppins', sans-serif;
+}
+.Background_Img{
+  /* background-image: url("https://th.bing.com/th/id/OIP.7w3Bvu1Kmo2tVycqb10WZAHaEF?rs=1&pid=ImgDetMain"); */
+  /* background-image: url("https://susanpolk.com/wp-content/uploads/2022/10/why-Medicare-is-so-confusing-resource-cover-img-1200x629.jpg"); */
+  background-image: url("https://imageio.forbes.com/specials-images/imageserve/602967c07726ff96310294b4/White-question-mark-on-blue-background-with-empty-space-on-left-side--3D-Rendering/0x0.jpg?format=jpg&crop=8003,4500,x0,y0,safe&width=1440");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+  
+}
+
+.Title-Div{
+  width: 500px;
+  height: 100px;
+  background-color:white;
+  opacity: 0.5;
+  padding: 50px;
+  border: 2px solid rgb(148, 145, 145);
+  border-radius: 25px;
+  display: flex;
+  /* align-items: center; */
+  /* text-align: center; */
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  /* text-align: center; */
+  justify-content: center;
+
+}
+.Navlink_Class{
+  text-decoration: none;
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left:40%;
+  font-size: 50px; /* Set the font size */
+  color: white;
+  text-transform: uppercase; /* Uppercase the text */
+  letter-spacing: 4px;
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  
+}
+.Title-Name{
+  text-shadow: 
+    -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; /* Apply multiple shadows with black color */
+}
+
+
+
+
+/* Navbar */
+
+.Navbar .Navbar_child span .navlink{
+  text-decoration: none;
+  list-style: none;
+}
+.Navbar .Navbar_child span a.link,
+.Navbar .Navbar_child span a.navlink {
+  text-decoration: none;
+  color: inherit; /* Optionally, to inherit the color */
+}
+
+.Navbar{
+  background-color: #00bbf0;
+  color: white;
+  padding: 10px;
+}
+.Navbarinner_flex {
+  width: fit-content;
+  display:flex;
+  width: 20%;
+  justify-content: space-evenly;
+  color: white;
+}
+.nav1{
+  display: none;
+}
+.Navbar_child{
+  width: 90%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 500;
+  
+}
+.App_Name{
+  font-weight: 600;
+  font-size: 25px;
+  color: white;
+  padding: 2px;
+  letter-spacing: 2px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.Quiz_Heding{
+  text-align: center;
+  /* width: 50%; */
+  
+}
+.Quiz_cards_flex{
+  display: flex;
+  width: 90%;
+  margin:auto;
+  justify-content: space-between;
+
+}
+.Quiz_cards_flex .Quizcard{
+width:250px;             
+}
+.Quiz_cards_flex img{
+  width: 100%;
+  height: 200px;
+}
+/* .Quizcard{
+  width: 300px;
+  height: 300px;
+  border: 1px solid  black;
+} */
+.Quizcard {
+  border-radius: 8px; /* Rounded corners for a softer look */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Box shadow effect */
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Adding transition for smooth animation */
+
+}
+.Quizcard:hover {
+  transform: translateY(-5px); /* Adjust the amount as needed */
+  box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.3); /* Shadow changes on hover */
+  cursor: pointer;
+}
+.Quizcard p {
+  margin-left: 4px ;
+}
+.Quizcard p span{
+font-family: Arial, Helvetica, sans-serif;
+color: #00bbf0;
+margin: 0px 5px 0px 5px;
+font-weight: 500;
+}
+.SelectOption{
+  /* width: 100px; */
+  background-color: #e63946;
+  cursor: pointer;
+  padding: 10px 20px ;
+  margin: 20px;
+  border:2px ;
+  /* box-shadow: 4px 4px 0 #d90429; */
+  width: 100px;
+  transition: ease-in-out 0.3s ;
+}
+/* .SelectOption:active{
+  transform:translateX(4px) translateY(4px);
+  box-shadow: 0 0 0 #d90429;
+} */
+
+.Takequiz{
+  width: 100%;
+  background-color: #00bbf0;
+  
+}
+
+
+
+
+/* signup page*********************************************************************************************************************** */
